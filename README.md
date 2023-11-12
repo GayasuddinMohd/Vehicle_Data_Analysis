@@ -1,4 +1,4 @@
-![Image Alt Text](https://github.com/GayasuddinMohd/Vehicle_Dataset_Analysis/blob/main/Vehicle%20Image.jpg?raw=true)
+![Image Alt Text](https://hagerty-vid-images.imgix.net/vehicles/2004%20Viper%20137.jpg)
 
 # 🌼  Vehicle Dataset Analysis  🌼
 The Vehicle Dataset Analysis offers valuable insights into the automotive industry, providing a glimpse into vehicle specifications, market trends, and consumer preferences. In this exploratory data analysis (EDA), we will delve into the dataset to uncover patterns, trends, and narratives related to vehicle characteristics, market segments, and features.
