@@ -10,18 +10,10 @@ This repository is about EDA performed on the Vehicle Dataset Analysis.
 
 # 🌼  Technologies Used  🌼
 * Python
-* Numpy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebok
-* Kaggle
-* Statistics
-
+  
 # Dataset 
 * Download the dataset from [Kaggle](https://www.kaggle.com/code/beelaboo/car-dataset/input).
-*  
+
 # Insights  
 * Most of the vehicles are manufactured by Toyota.
 * Asia manufactured the most number of Cars.
