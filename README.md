@@ -3,7 +3,7 @@
 # Vehicle Data Analysis  
 The Vehicle Data Analysis offers valuable insights into the automotive industry, providing a glimpse into vehicle specifications, market trends, and consumer preferences. In this analysis, we will delve into the dataset to uncover patterns, trends, and narratives related to vehicle characteristics, market segments, and features.
 
-# Technologies Used  
+# Skills
 * Python
   
 # Dataset 
